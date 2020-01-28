@@ -1,8 +1,8 @@
 
 
-<html>
+<!DOCTYPE html>
 <head>
-	<title>fibonacci</title>
+	<title> fibonacci series</title>
 </head>
 <body>
 	
