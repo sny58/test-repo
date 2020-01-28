@@ -5,7 +5,7 @@ $username="root";
 $password="root";
 $dbname="LLMS";
 // create connection
-
+//nlknslkdnslkdn 
 $conn =  new mysqli($servername, $username, $password, $dbname);
 if ($conn->connec_error) {
   die ("connection failed:" . mysqli_connect_error());
